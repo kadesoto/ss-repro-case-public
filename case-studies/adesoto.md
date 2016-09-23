@@ -1,7 +1,7 @@
 ##### Introduction
 *Please answer these introductory questions for your case study in a few sentences.*
 
-1) 1) Who are you and what is your research field? Include your name, affiliation, discipline, and the background or context of your overall research that is necessary specifically to introduce your specific case study.
+1) Who are you and what is your research field? Include your name, affiliation, discipline, and the background or context of your overall research that is necessary specifically to introduce your specific case study.
 
 We are K. Andrew DeSoto (Association for Psychological Science, Washington, DC, USA) and Adam L. Putnam (Carleton College, Northfield, MN, USA). We are both cognitive psychologists who worked in the same lab at Washington University in St. Louis, MO, USA and wished to continue collaborations after moving on to separate locations.
 
