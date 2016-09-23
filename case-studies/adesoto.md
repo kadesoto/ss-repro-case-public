@@ -1,9 +1,13 @@
 ##### Introduction
 *Please answer these introductory questions for your case study in a few sentences.*
 
-1) We are K. Andrew DeSoto (Association for Psychological Science, Washington, DC, USA) and Adam L. Putnam (Carleton College, Northfield, MN, USA). We are both cognitive psychologists who worked in the same lab at Washington University in St. Louis, MO, USA and wished to continue collaborations after moving on to separate locations.
+1) 1) Who are you and what is your research field? Include your name, affiliation, discipline, and the background or context of your overall research that is necessary specifically to introduce your specific case study.
 
-2) To us, reproducible research means that other scientists, as well as the public, should be able to read our manuscript and associated materials and understand exactly what we did to collect our data and run our analyses. Researchers should be able to analyze our data in the same way that we did, or collect new data and analyze it using the same strategies that we did.
+We are K. Andrew DeSoto (Association for Psychological Science, Washington, DC, USA) and Adam L. Putnam (Carleton College, Northfield, MN, USA). We are both cognitive psychologists who worked in the same lab at Washington University in St. Louis, MO, USA and wished to continue collaborations after moving on to separate locations.
+
+2) Define what the term "reproducibility" means to you generally and/or in the particular context of your case study.
+
+To us, reproducible research means that other scientists, as well as the public, should be able to read our manuscript and associated materials and understand exactly what we did to collect our data and run our analyses. Researchers should be able to analyze our data in the same way that we did, or collect new data and analyze it using the same strategies that we did.
 
 ##### Workflow diagram
 
