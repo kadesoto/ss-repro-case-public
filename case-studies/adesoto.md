@@ -11,6 +11,8 @@ To us, reproducible research means that other scientists, as well as the public,
 
 ##### Workflow diagram
 
+[Workflow diagram](https://drive.google.com/file/d/0B8YqYUCKCMIyanI0UnlnLWI3OUE/view?usp=sharing)
+
 The core of your case study is a diagrammatic workflow sketch, which depicts your the entire pipeline of your workflow. Think of this like a circuit diagram: boxes represent steps, tools, or other disjoint components, and arrows show how outputs of particular steps feed as inputs to others. This diagram will be complemented by a textual narrative.
 
 We recommend the site [http://draw.io](http://draw.io) for creating this diagram. Please draw your diagram so that it reads from left to right, and fills no more than half a standard US letter page. Use Helvetica font with at least 10 or 11pt size.
